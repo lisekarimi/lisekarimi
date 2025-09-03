@@ -15,31 +15,54 @@
 </a>
 </p>
 
-## 🚀 Open-Source Projects
+## 🌍 Public Projects 
 
-### 🤖 AI/ML Tools & Platforms
-|Title | Technologies|
-|--|--|
-| [**lexo**](https://github.com/lisekarimi/lexo) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface) ![TensorFlow](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square&logo=gradio) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![W&B](https://img.shields.io/badge/W&B-black?style=flat-square&logo=wandb) |
-| [**snapr**](https://github.com/lisekarimi/snapr) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface) ![TensorFlow](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) |
-| [**datagen**](https://github.com/lisekarimi/datagen) | ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square&logo=gradio) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab) |
+### 🧩 AI Applications
 
-### 📊 Data Science & ML Models
-|Title | Technologies|
-|--|--|
-| [**pixdl**](https://github.com/lisekarimi/pixdl) | ![TensorFlow](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Keras](https://img.shields.io/badge/Keras-black?style=flat-square&logo=keras) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Scikit](https://img.shields.io/badge/Scikit-black?style=flat-square&logo=scikit-learn) |
+| Title                                                | Description                         | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**snapr**](https://github.com/lisekarimi/snapr)     | Multi-agent system for online deals | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square\&logo=gradio) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker) ![Modal](https://img.shields.io/badge/Modal-black?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square\&logo=huggingface) ![Pytest](https://img.shields.io/badge/Pytest-black?style=flat-square\&logo=pytest)                                                                                                                                                                                                       |
+| [**datagen**](https://github.com/lisekarimi/datagen) | Synthetic data generator with LLMs  | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square\&logo=streamlit) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square\&logo=huggingface) ![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square\&logo=gitlab) ![Pytest](https://img.shields.io/badge/Pytest-black?style=flat-square\&logo=pytest)                                                                                                                                                                               |
+| [**skindx**](https://github.com/lisekarimi/skindx)   | AI-powered skin lesion analysis app | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square\&logo=streamlit) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square\&logo=fastapi) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square\&logo=mlflow) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square\&logo=pytorch) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square\&logo=huggingface) ![Pytest](https://img.shields.io/badge/Pytest-black?style=flat-square\&logo=pytest) |
 
-### 🏥 Data Analytics & Visualization
-|Title | Technologies|
-|--|--|
-| [**medokanja**](https://github.com/lisekarimi/medokanja) | ![PowerBI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi) |
+---
 
-### 🛠️ Developer Tools
-|Title | Technologies|
-|--|--|
-| [**changit**](https://github.com/lisekarimi/changit) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Tkinter](https://img.shields.io/badge/Tkinter-black?style=flat-square) |
-| [**nbclean**](https://github.com/lisekarimi/nbclean) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) |
-| [**dbignore**](https://github.com/lisekarimi/dbignore) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat-square&logo=powershell) |
+### ⚒️ AI Toolkits
+
+| Title                                            | Description                                    | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------ | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**lexo**](https://github.com/lisekarimi/lexo)   | LLM toolkit for fine-tuning and agents         | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square\&logo=huggingface) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square\&logo=gradio) ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square) ![Modal](https://img.shields.io/badge/Modal-black?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square) |
+| [**pixdl**](https://github.com/lisekarimi/pixdl) | Deep learning toolkit for image classification | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square\&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square\&logo=tensorflow) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square\&logo=mlflow)                                                                                                                                      |
+
+---
+
+### 🔄 Workflow Automation
+
+| Title                                                  | Description                             | Technologies                                                                                                                                                                           |
+| ------------------------------------------------------ | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**hfpusher**](https://github.com/lisekarimi/hfpusher) | CLI tool to push models to Hugging Face | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square\&logo=huggingface) |
+| [**changit**](https://github.com/lisekarimi/changit)   | AI-powered changelog generator          | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker)                |
+| [**dropsync**](https://github.com/lisekarimi/dropsync) | Local to Dropbox sync utility           | ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat-square\&logo=powershell)                                                                                        |
+| [**dbignore**](https://github.com/lisekarimi/dbignore) | Exclude files from Dropbox sync         | ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat-square\&logo=powershell)                                                                                        |
+| [**nbclean**](https://github.com/lisekarimi/nbclean)   | Notebook cleaner to reduce file size    | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python)                                                                                                    |
+
+---
+
+### 📊 Data Analytics
+
+| Title                                                    | Description                                    | Technologies                                                                                                                                                                                                                           |
+| -------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**medokanja**](https://github.com/lisekarimi/medokanja) | Power BI project for patient waitlist analysis | ![PowerBI](https://img.shields.io/badge/PowerBI-black?style=flat-square\&logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-black?style=flat-square) ![PowerQuery](https://img.shields.io/badge/PowerQuery-black?style=flat-square) |
+
+
+## 🔒 Private Projects
+
+### 🔄 Workflow Automation 
+
+| Title      | Description                | Technologies                                                                                                                                                                                                                                                |
+| ---------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **nsynca** | Notion sync/update toolkit | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker) ![Notion](https://img.shields.io/badge/Notion-black?style=flat-square\&logo=notion) |
+
 
 ## Stats
 
