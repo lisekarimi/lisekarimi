@@ -15,7 +15,7 @@
 </a>
 </p>
 
-## 🌍 Public Projects 
+## 🌍 Projects
 
 ### 🧩 AI Applications
 
@@ -40,11 +40,12 @@
 
 | Title                                                  | Description                             | Technologies                                                                                                                                                                           |
 | ------------------------------------------------------ | --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**hfpusher**](https://github.com/lisekarimi/hfpusher) | CLI tool to push models to Hugging Face | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square\&logo=huggingface) |
-| [**changit**](https://github.com/lisekarimi/changit)   | AI-powered changelog generator          | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker)                |
-| [**dropsync**](https://github.com/lisekarimi/dropsync) | Local to Dropbox sync utility           | ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat-square\&logo=powershell)                                                                                        |
-| [**dbignore**](https://github.com/lisekarimi/dbignore) | Exclude files from Dropbox sync         | ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat-square\&logo=powershell)                                                                                        |
-| [**nbclean**](https://github.com/lisekarimi/nbclean)   | Notebook cleaner to reduce file size    | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python)                                                                                                    |
+| [**hfpusher**](https://github.com/lisekarimi/hfpusher) | CLI tool to push models to Hugging Face | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface) |
+| [**changit**](https://github.com/lisekarimi/changit)   | AI-powered changelog generator          | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)                |
+| [**dropsync**](https://github.com/lisekarimi/dropsync) | Local to Dropbox sync utility           | ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat-square&logo=powershell)                                                                                        |
+| [**dbignore**](https://github.com/lisekarimi/dbignore) | Exclude files from Dropbox sync         | ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat-square&logo=powershell)                                                                                        |
+| [**nbclean**](https://github.com/lisekarimi/nbclean)   | Notebook cleaner to reduce file size    | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)                                                                                                    |
+| [**nsynca**](https://github.com/lisekarimi/nsynca)     | Notion sync/update toolkit              | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion) |
 
 ---
 
@@ -53,15 +54,6 @@
 | Title                                                    | Description                                    | Technologies                                                                                                                                                                                                                           |
 | -------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [**medokanja**](https://github.com/lisekarimi/medokanja) | Power BI project for patient waitlist analysis | ![PowerBI](https://img.shields.io/badge/PowerBI-black?style=flat-square\&logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-black?style=flat-square) ![PowerQuery](https://img.shields.io/badge/PowerQuery-black?style=flat-square) |
-
-
-## 🔒 Private Projects
-
-### 🔄 Workflow Automation 
-
-| Title      | Description                | Technologies                                                                                                                                                                                                                                                |
-| ---------- | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **nsynca** | Notion sync/update toolkit | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker) ![Notion](https://img.shields.io/badge/Notion-black?style=flat-square\&logo=notion) |
 
 
 ## Stats
