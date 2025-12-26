@@ -64,6 +64,7 @@
 | Title                                                    | Description                                    | Demo | Technologies                                                                                                                                                                                                       |
 | -------------------------------------------------------- | ---------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [**medokanja**](https://github.com/lisekarimi/medokanja) | Power BI project for patient waitlist analysis | [🔗](https://medokanja.lisekarimi.com) | ![Power BI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-black?style=flat-square) ![Power Query](https://img.shields.io/badge/PowerQuery-black?style=flat-square) |
+| [**finsight**](https://github.com/lisekarimi/finsight) | Power BI Financial Performance Dashboard | [🔗](https://finsight.lisekarimi.com) | ![Power BI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-black?style=flat-square) ![Power Query](https://img.shields.io/badge/PowerQuery-black?style=flat-square) |
 
 
 
