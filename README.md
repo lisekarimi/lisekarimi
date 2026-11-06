@@ -1,80 +1,101 @@
 <p align="center">
-<a href="https://github.com/lisekarimi">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=FFFFFF&multiline=true&width=500&height=80&lines=Lise+Karimi;AI+Engineer;Agentic+AI+%7C+Machine+learning+%7C+MLOps" alt="Typing SVG" />
-</a>
-<br/><br/>
-
-</a>
-<p align="center">
-<a href="https://lisekarimi.com"><img src="https://img.shields.io/badge/Portfolio-00CED1?style=flat-square&logo=About.me&logoColor=white"></a> <a href="https://www.linkedin.com/in/lisekarimi"><img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"></a> <a href="https://www.kaggle.com/lizk75" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"></a> <a href="https://discord.com/users/codebyliz" target="_blank"><img src="https://img.shields.io/badge/Discord-purple?style=flat-square&logo=discord&logoColor=white"></a> <a href="mailto:lisekarimi@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white"></a>
-</p>
-
-<p align="center">
-<a href="https://github.com/lisekarimi">
-    <img src="https://github-stats-alpha.vercel.app/api?username=lisekarimi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+<a href="https://lisekarimi.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&color=FFFFFF&center=true&vCenter=true&multiline=true&width=560&height=80&lines=Lise+Karimi;Regulated+AI+Architect+for+Life+Sciences;Agentic+AI+%7C+LLMOps+%7C+MLOps+%7C+Cloud" alt="Lise Karimi - Regulated AI Architect for Life Sciences" />
 </a>
 </p>
 
-## 🌍 Projects
+<p align="center">
+<a href="https://lisekarimi.com"><img src="https://img.shields.io/badge/Website-lisekarimi.com-00CED1?style=flat-square&logo=googlechrome&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/lisekarimi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://huggingface.co/lisekarimi"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"></a>
+<a href="https://www.kaggle.com/lizk75"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"></a>
+<a href="https://discord.com/users/codebyliz"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"></a>
+<a href="mailto:lisekarimi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+</p>
 
-### 🧩 AI Applications
+I design and ship **governed, production-grade AI systems** for pharma, biotech and healthcare: agentic LLM applications, RAG, ML forecasting and the MLOps, cloud and CI/CD that run them. 12+ years in tech, 6+ in pharma.
 
-| Title                                                | Description                              | Demo | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ---------------------------------------------------- | ---------------------------------------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**snapr**](https://github.com/lisekarimi/snapr)     | Multi-agent system for online deals       | [🔗](https://snapr.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square&logo=gradio) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Modal](https://img.shields.io/badge/Modal-black?style=flat-square) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface) ![Pytest](https://img.shields.io/badge/Pytest-black?style=flat-square&logo=pytest) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) |
-| [**datagen**](https://github.com/lisekarimi/datagen) | Synthetic data generator with LLMs        | [🔗](https://datagen.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface) ![GitLab](https://img.shields.io/badge/GitLab-black?style=flat-square&logo=gitlab) ![Pytest](https://img.shields.io/badge/Pytest-black?style=flat-square&logo=pytest) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) |
-| [**skindx**](https://github.com/lisekarimi/skindx)   | AI-powered skin lesion analysis app       | [🔗](https://skindx.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square&logo=mlflow) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface) ![Pytest](https://img.shields.io/badge/Pytest-black?style=flat-square&logo=pytest) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) |
-| [**drugx**](https://github.com/lisekarimi/drugx)     | AI platform for preventing drug interactions | [🔗](https://drugx.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![Supabase](https://img.shields.io/badge/Supabase-black?style=flat-square&logo=supabase) ![Pytest](https://img.shields.io/badge/Pytest-black?style=flat-square&logo=pytest) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) |
-| [**pagebotai**](https://github.com/lisekarimi/pagebotai) *(private)* | AI Agent that auto-updates from your website | [🔗](https://pagebotai.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis) ![GCP](https://img.shields.io/badge/GCP-black?style=flat-square&logo=googlecloud) ![GCS](https://img.shields.io/badge/GCS-black?style=flat-square&logo=googlecloudstorage) ![n8n](https://img.shields.io/badge/n8n-black?style=flat-square&logo=n8n) ![Docsify](https://img.shields.io/badge/Docsify-black?style=flat-square&logo=docsify) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) |
-| [**askmycv**](https://github.com/lisekarimi/datalise) *(private)* | AI agentic chatbot for CV and career queries | [🔗](https://askmycv.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript) ![HTML5](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css3) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![GCP](https://img.shields.io/badge/GCP-black?style=flat-square&logo=googlecloud) ![GCS](https://img.shields.io/badge/GCS-black?style=flat-square&logo=googlecloudstorage) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) |
-| [**prism**](https://github.com/lisekarimi/prism) | AI-powered swap trading monitoring system using CrewAI multi-agent framework | [🔗](https://prism.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![CrewAI](https://img.shields.io/badge/CrewAI-black?style=flat-square) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square&logo=gradio) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![Pytest](https://img.shields.io/badge/Pytest-black?style=flat-square&logo=pytest) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) |
-| [**whispera**](https://github.com/lisekarimi/whispera) | AI speech recognition app that converts audio up to 2 hours into text | [🔗](https://whispera.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Tkinter](https://img.shields.io/badge/Tkinter-black?style=flat-square&logo=python) ![PyInstaller](https://img.shields.io/badge/PyInstaller-black?style=flat-square) ![Whisper](https://img.shields.io/badge/Whisper-black?style=flat-square&logo=openai) ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai) |
-| [**healthline**](https://github.com/lisekarimi/healthline) *(private)* | AI-powered health assistant with RAG, multi-agent orchestration and WhatsApp integration | [🔗](https://healthline.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![LangGraph](https://img.shields.io/badge/LangGraph-black?style=flat-square) ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![WhatsApp](https://img.shields.io/badge/WhatsApp_Business-black?style=flat-square&logo=whatsapp) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![RAG](https://img.shields.io/badge/RAG-black?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-black?style=flat-square&logo=redis) ![MCP](https://img.shields.io/badge/MCP-black?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) |
-| [**bikeflow**](https://github.com/lisekarimi/bikeflow) *(private)* | Bike-sharing demand forecasting with ML, AI bot (text/voice) and Power BI | [🔗](https://bikeflow.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![OpenAI](https://img.shields.io/badge/OpenAI_Agents_SDK-black?style=flat-square&logo=openai) ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat-square) ![LightGBM](https://img.shields.io/badge/LightGBM-black?style=flat-square) ![Optuna](https://img.shields.io/badge/Optuna-black?style=flat-square) ![Pytest](https://img.shields.io/badge/Pytest-black?style=flat-square&logo=pytest) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=postgresql) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-black?style=flat-square) ![WhatsApp](https://img.shields.io/badge/WhatsApp-black?style=flat-square&logo=whatsapp) ![PowerBI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![Polars](https://img.shields.io/badge/Polars-black?style=flat-square&logo=polars) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-black?style=flat-square&logo=scikitlearn) ![Plotly](https://img.shields.io/badge/Plotly-black?style=flat-square&logo=plotly) ![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square&logo=mlflow) ![Twilio](https://img.shields.io/badge/Twilio-black?style=flat-square&logo=twilio) |
+Every project below is deployed with a live demo.
 
+## 🚀 Production Systems
 
+Private repositories, live demos. Code walkthrough available on request.
 
----
+| System | What it does | Architecture | Demo |
+| --- | --- | --- | --- |
+| **AI Career Assistant** | Grounded career chatbot with lead capture, guardrails and an admin dashboard | TypeScript Cloudflare Worker, OpenAI Responses API with tool calling, Cloudflare D1, AI Gateway (rate and spend limits), Eleventy | [lisekarimi.com](https://lisekarimi.com) |
+| **Healthline** | Agentic appointment booking for a medical clinic: book, cancel, reschedule, clinic Q&A | LangGraph state machine, Cerebras `gpt-oss-120b` structured output and tool calling, Google Calendar API, PostgreSQL (Neon), FastAPI, Docker on Render | [healthline.lisekarimi.com](https://healthline.lisekarimi.com) |
+| **BikeFlow** | Bike-sharing demand forecasting: per-station models predict hourly availability 7 days ahead, with an AI assistant | LightGBM/XGBoost per station, Optuna, MLflow, batch inference, drift monitoring, FastAPI, Cerebras assistant (lightweight frozen-snapshot demo) | [bikeflow.lisekarimi.com](https://bikeflow.lisekarimi.com) |
 
-### ⚒️ AI Toolkits
+## 🧪 The Lab
 
-| Title                                            | Description                                    | Demo | Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ------------------------------------------------ | ---------------------------------------------- | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**lexo**](https://github.com/lisekarimi/lexo)   | LLM toolkit for fine-tuning and agents         | [🔗](https://lexo.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square\&logo=huggingface) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square\&logo=gradio) ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square) ![Modal](https://img.shields.io/badge/Modal-black?style=flat-square) ![Ollama](https://img.shields.io/badge/Ollama-black?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) |
-| [**agentverse**](https://github.com/lisekarimi/agentverse) | Hands-on notebooks for building agentic AI systems | [🔗](https://agentverse.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![Gradio](https://img.shields.io/badge/Gradio-black?style=flat-square\&logo=gradio) ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-black?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-black?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square\&logo=openai) ![CrewAI](https://img.shields.io/badge/CrewAI-black?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-black?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square) |
-| [**pixdl**](https://github.com/lisekarimi/pixdl) | Deep learning toolkit for image classification | [🔗](https://pixdl.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square\&logo=python) ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square\&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat-square\&logo=tensorflow) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square\&logo=docker) ![MLflow](https://img.shields.io/badge/MLflow-black?style=flat-square\&logo=mlflow) ![LLM](https://img.shields.io/badge/LLM-black?style=flat-square)                                                                                                                                      |
+Open-source side projects, built end to end.
 
----
+### Agentic AI Systems
 
-### 🔄 Workflow Automation
+| Project | Description | Stack | Demo |
+| --- | --- | --- | --- |
+| [**snapr**](https://github.com/lisekarimi/snapr) | Multi-agent system for online deals | Multi-agent, RAG, QLoRA, ChromaDB, XGBoost, FastAPI | [🔗](https://snapr.lisekarimi.com) |
+| [**prism**](https://github.com/lisekarimi/prism) | AI-powered swap trading monitoring | CrewAI, OpenAI, PostgreSQL, Gradio | [🔗](https://prism.lisekarimi.com) |
+| [**datagen**](https://github.com/lisekarimi/datagen) | Synthetic data generator with LLMs | Claude, OpenAI, FastAPI, Gradio | [🔗](https://datagen.lisekarimi.com) |
+| [**agentverse**](https://github.com/lisekarimi/agentverse) | Hands-on notebooks for building agentic AI | LangGraph, CrewAI, OpenAI Agents SDK, MCP | [🔗](https://agentverse.lisekarimi.com) |
+| [**lexo**](https://github.com/lisekarimi/lexo) | LLM toolkit for RAG, fine-tuning and AI agents | RAG, QLoRA, LangChain, ChromaDB, Ollama, Weights & Biases | [🔗](https://lexo.lisekarimi.com) |
+| [**aiobot**](https://github.com/lisekarimi/aiobot) | AI agent for weather-aware activity ideas | OpenAI Agents SDK, MCP, REST APIs, Gradio | [🔗](https://aiobot.lisekarimi.com) |
+| [**changit**](https://github.com/lisekarimi/changit) | AI-generated changelogs | OpenAI, Claude, Python, Docker, CI/CD | [🔗](https://changit.lisekarimi.com) |
 
-| Title                                                       | Description                                | Demo | Technologies                                                                                                                                                                                                                                                           |
-| ----------------------------------------------------------- | ------------------------------------------ | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**hfpusher**](https://github.com/lisekarimi/hfpusher)      | CLI tool to push models to Hugging Face    | [🔗](https://devutils.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![HuggingFace](https://img.shields.io/badge/HuggingFace-black?style=flat-square&logo=huggingface) |
-| [**changit**](https://github.com/lisekarimi/changit)        | AI-powered changelog generator             | [🔗](https://changit.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)                 |
-| [**dropsync**](https://github.com/lisekarimi/dropsync)      | Local to Dropbox sync utility              | [🔗](https://devutils.lisekarimi.com) | ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat-square&logo=powershell) ![Dropbox](https://img.shields.io/badge/Dropbox-black?style=flat-square&logo=dropbox)                                                                                     |
-| [**drivesync**](https://github.com/lisekarimi/drivesync) *(private)*   | Local to OneDrive sync utility             | [🔗](https://devutils.lisekarimi.com) | ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat-square&logo=powershell) ![OneDrive](https://img.shields.io/badge/OneDrive-black?style=flat-square&logo=microsoftonedrive)                                                                                     |
-| [**dbignore**](https://github.com/lisekarimi/dbignore)      | Exclude files from Dropbox sync            | [🔗](https://devutils.lisekarimi.com) | ![PowerShell](https://img.shields.io/badge/PowerShell-black?style=flat-square&logo=powershell) ![Dropbox](https://img.shields.io/badge/Dropbox-black?style=flat-square&logo=dropbox)                                                                                     |
-| [**nbclean**](https://github.com/lisekarimi/nbclean)        | Notebook cleaner to reduce file size       | [🔗](https://devutils.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter)                                                                                                |
-| [**nsynca**](https://github.com/lisekarimi/nsynca)          | Notion sync/update toolkit                 | [🔗](https://nsynca.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion)                  |
-| [**curetrack**](https://github.com/lisekarimi/curetrack)    | Automates medication tracking and reminders | [🔗](https://curetrack.lisekarimi.com) | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python) ![n8n](https://img.shields.io/badge/n8n-black?style=flat-square&logo=n8n) ![Postgres](https://img.shields.io/badge/Postgres-black?style=flat-square&logo=postgresql) ![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion) ![Google Calendar](https://img.shields.io/badge/Google_Calendar-black?style=flat-square&logo=googlecalendar) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) |
-| [**salutron**](https://github.com/lisekarimi/salutron)      | Multi-cloud IaC with Terraform, and automated CI/CD across AWS/GCP/Azure | [🔗](https://salutron.lisekarimi.com) | ![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform) ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-black?style=flat-square&logo=microsoftazure) ![GCP](https://img.shields.io/badge/GCP-black?style=flat-square&logo=googlecloud) ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=flat-square&logo=githubactions) ![Bash](https://img.shields.io/badge/Bash-black?style=flat-square&logo=gnubash) |
+### Healthcare AI
 
+| Project | Description | Stack | Demo |
+| --- | --- | --- | --- |
+| [**drugx**](https://github.com/lisekarimi/drugx) | AI platform for preventing dangerous drug mixes | OpenAI, REST APIs, PostgreSQL, Streamlit | [🔗](https://drugx.lisekarimi.com) |
+| [**skindx**](https://github.com/lisekarimi/skindx) | AI-powered skin lesion analysis | ResNet-50, PyTorch, FastAPI, Streamlit | [🔗](https://skindx.lisekarimi.com) |
 
----
+### Data Science & ML
 
-### 📊 Data Analytics
+| Project | Description | Stack | Demo |
+| --- | --- | --- | --- |
+| [**timelyzer**](https://github.com/lisekarimi/timelyzer) | Statistical and ML time series forecasting | Prophet, SARIMAX, Scikit-learn, Pandas, Plotly | [🔗](https://timelyzer.lisekarimi.com) |
+| [**pixdl**](https://github.com/lisekarimi/pixdl) | Deep learning toolkit for image classification | PyTorch, TensorFlow, ResNet-50, EfficientNet, MLflow, Docker | [🔗](https://pixdl.lisekarimi.com) |
 
-| Title                                                    | Description                                    | Demo | Technologies                                                                                                                                                                                                       |
-| -------------------------------------------------------- | ---------------------------------------------- | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [**medokanja**](https://github.com/lisekarimi/medokanja) | Power BI project for patient waitlist analysis | [🔗](https://medokanja.lisekarimi.com) | ![Power BI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-black?style=flat-square) ![Power Query](https://img.shields.io/badge/PowerQuery-black?style=flat-square) |
-| [**finsight**](https://github.com/lisekarimi/finsight) | Power BI Financial Performance Dashboard | [🔗](https://finsight.lisekarimi.com) | ![Power BI](https://img.shields.io/badge/PowerBI-black?style=flat-square&logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-black?style=flat-square) ![Power Query](https://img.shields.io/badge/PowerQuery-black?style=flat-square) |
+### Data & BI
 
+| Project | Description | Stack | Demo |
+| --- | --- | --- | --- |
+| [**medokanja**](https://github.com/lisekarimi/medokanja) | Hospital waitlist analysis | Power BI, DAX, Power Query | [🔗](https://medokanja.lisekarimi.com) |
+| [**finsight**](https://github.com/lisekarimi/finsight) | Financial performance dashboard | Power BI, DAX, Power Query | [🔗](https://finsight.lisekarimi.com) |
 
+### Cloud & DevOps
 
-## Stats
+| Project | Description | Stack | Demo |
+| --- | --- | --- | --- |
+| [**salutron**](https://github.com/lisekarimi/salutron) | Multi-cloud IaC with automated CI/CD | Terraform, AWS, GCP, Azure, GitHub Actions | [🔗](https://salutron.lisekarimi.com) |
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lisekarimi&theme=dracula)
+## 🛠️ Tech Stack
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lisekarimi&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lisekarimi&theme=dracula)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+</p>
+
+## 📊 Stats
+
+<p>
+<img src="https://github-stats-alpha.vercel.app/api?username=lisekarimi&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lisekarimi&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lisekarimi&theme=dracula)
